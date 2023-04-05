@@ -5,8 +5,8 @@
 ## About me
 
 - ✨ Desenvolvo Sistemas desde 2022 🚀
-- 📈 Sou adepto das **Metodologias Ágeis** e do **Clean Code**,  
-- 🎯 Amo tecnologias e adoro ainda mais os resultados e transformações de negócios que ela pode proporcionar, escolhendo a **tecnologia ideal** para o **problema certo** afim de criar soluções de alto valor.
+<!-- - 📈 Sou adepto das **Metodologias Ágeis** e do **Clean Code**,   -->
+- 🎯 Interessado em  tecnologias, nos resultados e nas transformações que ela pode proporcionar, escolhendo a **tecnologia ideal** para o **problema certo** afim de criar soluções.
 
 <div align="center">
   <a href="https://github.com/eduardorochadev">
