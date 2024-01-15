@@ -4,7 +4,7 @@
 
 ## About me
 
-- ✨ Um rapaz latino americano sem parentes importantes, vindo do interior e Técnico Mecânico Automotivo em transição de carreira, estudante de Analise e desenvolvimento de sistemas e em conclusão do curso de FullStack na Digital College em Fortaleza 🚀
+<!-- - ✨ Um rapaz latino americano sem parentes importantes, vindo do interior e Técnico Mecânico Automotivo em transição de carreira, estudante de Analise e desenvolvimento de sistemas e em conclusão do curso de FullStack na Digital College em Fortaleza 🚀 -->
 <!-- - 📈 Sou adepto das **Metodologias Ágeis** e do **Clean Code**,   -->
 - 🎯 Interessado em  tecnologias, nos resultados e nas transformações que ela pode proporcionar, escolhendo a **tecnologia ideal** para o **problema certo** afim de criar soluções.
 
