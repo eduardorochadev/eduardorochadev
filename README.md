@@ -27,8 +27,8 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>-->
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/> 
 </div>
 
 ---
@@ -58,8 +58,8 @@
 
 ---
 
-<!-- Snake animation opcional -->
+<!-- Snake animation opcional 
 
 <div align="center">
   <img src="https://github.com/eduardorochadev/eduardorochadev/blob/output/github-contribution-grid-snake.svg"/>
-</div>
+</div> -->
