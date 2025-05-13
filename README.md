@@ -59,8 +59,7 @@
 ---
 
 <!-- Snake animation opcional -->
-<!--
+
 <div align="center">
   <img src="https://github.com/eduardorochadev/eduardorochadev/blob/output/github-contribution-grid-snake.svg"/>
 </div>
--->
