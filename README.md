@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Eduardo Rocha 👋</h1>
+<h1 align="center">Olá! Eu sou o Eduardo Macedo 👋</h1>
 
 <p align="center">
   <b>FullStack Developer</b> em transição de carreira, com raízes no Ceará, Brasil 🇧🇷 <br/>
