@@ -1,109 +1,98 @@
-<h1 align="center">
-  <a href="https://github.com/eduardorochadev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&weight=600&center=true&vCenter=true&width=500&height=70&lines=Olá,+eu+sou+o+Eduardo+Macedo!+👋;Desenvolvedor+FullStack;Solucionador+de+Problemas.;Do+hardware+ao+software." alt="Olá! Eu sou o Eduardo Macedo! 👋">
-  </a>
-</h1>
-
-<h3 align="center">
-  Desenvolvedor FullStack 🇧🇷 | Ceará, Brasil
-</h3>
-
-<p align="center">
-  Com uma trajetória que começou na Manutenção Automotiva, trago uma perspectiva única para o desenvolvimento de software: a habilidade de diagnosticar e resolver problemas complexos, seja no mundo físico ou no digital.
-</p>
-
-<p align="center">
-  Apaixonado por tecnologia e por criar soluções que geram impacto real.
-</p>
-
-<br>
-
----
-
-## 💡 Sobre Mim
-
-Com uma base sólida como técnico em Manutenção Automotiva, hoje aplico a mesma lógica de diagnóstico e precisão no universo do desenvolvimento de software. Acredito que a tecnologia é um meio para resolver problemas reais e gosto de mergulhar no desafio antes de definir a ferramenta.
-
-- 📚 Cursando **Análise e Desenvolvimento de Sistemas** (UNINASSAU).
-- 🎓 Formado em **Desenvolvimento FullStack** (Digital College).
-- 🧠 Foco em boas práticas: **Clean Code**, **Design Patterns** e **Metodologias Ágeis**.
-- 🎯 Interessado em projetos que unem software a áreas como mobilidade, mecânica e indústria.
-
----
-
-## 💻 Tech Stack & Ferramentas
-
-Minha stack está sempre evoluindo. Estas são as tecnologias com as quais trabalho atualmente:
+<!-- ============================= -->
+<!--   README MODE: MS-DOS 1.0     -->
+<!-- ============================= -->
 
 <div align="center">
-  
-<details>
-  <summary><strong>🚀 Frontend</strong></summary>
-  <p align="center">
-    <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  </p>
-</details>
+<pre style="font-family: 'Courier New', monospace; font-size: 14px;">
+███████╗██████╗ ██╗   ██╗ █████╗ ██████╗ ██╗   ██╗██████╗  ██████╗  ██████╗ 
+██╔════╝██╔══██╗██║   ██║██╔══██╗██╔══██╗██║   ██║██╔══██╗██╔═══██╗██╔════╝ 
+█████╗  ██████╔╝██║   ██║███████║██████╔╝██║   ██║██████╔╝██║   ██║██║  ███╗
+██╔══╝  ██╔══██╗╚██╗ ██╔╝██╔══██║██╔══██╗██║   ██║██╔══██╗██║   ██║██║   ██║
+███████╗██║  ██║ ╚████╔╝ ██║  ██║██████╔╝╚██████╔╝██║  ██║╚██████╔╝╚██████╔╝
+╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ 
+</pre>
 
-<details>
-  <summary><strong>🔧 Backend & Mobile</strong></summary>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
-  </p>
-</details>
-
-<details>
-  <summary><strong>⚙️ Ferramentas & Práticas</strong></summary>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Scrum-0077B5?style=for-the-badge&logo=jira&logoColor=white"/>
-  </p>
-</details>
-
+<h2 style="font-family: 'Courier New', monospace;">C:\> BEM-VINDO AO PERFIL DE EDUARDO MACEDO</h2>
+<p style="font-family: 'Courier New', monospace;">Desenvolvedor FullStack • Automação • IA • Java • Ceará</p>
 </div>
 
 ---
 
-## 📊 Minha Atividade no GitHub
+C:\PROFILE> eduardo_macedo.exe /run
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardorochadev&show_icons=true&theme=github_dark&count_private=true&hide_border=true&rank_icon=percentile" alt="GitHub Stats"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardorochadev&layout=compact&theme=github_dark&langs_count=8&hide_border=true" alt="Top Languages"/>
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardorochadev&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
-</div>
+Iniciei minha trajetória resolvendo problemas que não admitem falha:
+o motor de um carro, a elétrica de um sistema, a lógica de um diagnóstico.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardorochadev&theme=github-dark&hide_border=true&line=5A94FA&point=FFFFFF&area=true&area_color=1F2937" alt="GitHub Activity Graph"/>
-</div>
+A oficina foi meu primeiro laboratório — e ali aprendi algo que levo até hoje:
+qualquer sistema, mecânico ou digital, pode ser dominado com método,
+atenção e raciocínio estruturado.
+
+A transição para o software veio como evolução natural.
+Hoje aplico no desenvolvimento a mesma disciplina que aplicava na mecânica:
+investigar, isolar, entender e solucionar.
+
+Atuo como Desenvolvedor FullStack, com foco em:
+
+Arquitetura limpa e escalável
+
+Automação avançada (n8n, fluxos inteligentes, integrações)
+
+IA aplicada a negócios
+
+Desenvolvimento com Java e Node
+
+Soluções reais, funcionais e de impacto
+
+Minha filosofia é simples:
+o problema nunca é maior que a capacidade de entender sua lógica.
+
+C:\PROFILE> status /current
+Carreira em expansão.
+Evolução contínua.
+Pronto para o próximo comando.
+
 
 ---
 
-## 📬 Conecte-se Comigo
+## C:\SKILLS> tree /f
+```txt
+│   FRONTEND/
+│   ├── HTML5
+│   ├── CSS3 / SASS / SCSS
+│   ├── JavaScript
+│   ├── TypeScript
+│   ├── Angular
+│   └── React
+│
+│   BACKEND/
+│   ├── Node.js
+│   ├── Express
+│   └── Java (OOP, Clean Architecture)
+│
+│   MOBILE/
+│   └── Ionic + Capacitor
+│
+│   AUTOMAÇÃO/
+│   ├── n8n (especialista)
+│   ├── webhooks
+│   ├── Supabase (DB + Storage)
+│   ├── Integrações OpenAI
+│   ├── Chatwoot
+│   ├── APIs REST
+│   └── WhatsApp API
+│
+│   DB/
+│   └── PostgreSQL
+│
+└── FERRAMENTAS/
+    ├── Git / GitHub
+    ├── Docker básico
+    ├── VPS Hostinger / Easypanel
+    ├── Metodologias Ágeis
+    └── Clean Code + Design Patterns
 
-Estou sempre aberto a novas conexões, projetos e oportunidades de aprendizado.
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/eduardomacedor/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:eduardomacedorocha@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/osenhorprogramador/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div>
-
-<!-- Snake animation opcional 
-
-<div align="center">
-  <img src="https://github.com/eduardorochadev/eduardorochadev/blob/output/github-contribution-grid-snake.svg"/>
-</div> -->
+C:\STATS> github.exe /show
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardorochadev&show_icons=true&theme=chartreuse-dark&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardorochadev&layout=compact&theme=chartreuse-dark&hide_border=true"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardorochadev&theme=chartreuse-dark&hide_border=true"/> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardorochadev&theme=react-dark&hide_border=true&line=00ffea&point=ffffff&area=true&area_color=8319FF55"/> </div>
+C:\CONTACT> net_run /connect
+<div align="center"> <a href="https://www.linkedin.com/in/eduardomacedor/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0088CC?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:eduardomacedorocha@gmail.com"> <img src="https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.instagram.com/osenhorprogramador/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-9D00FF?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </div>
+<div align="center" style="font-family: 'Courier New', monospace;"> C:\> END OF FILE </div> ```
