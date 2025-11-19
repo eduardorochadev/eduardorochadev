@@ -125,11 +125,7 @@ C:\PROFILE\> status /current
  ____________________
 < Vamos trabalhar juntos? >
  --------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+
 ```
 
 **`C:\> Sistema pronto para conexão`**
